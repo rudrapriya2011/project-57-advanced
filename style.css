@@ -1,0 +1,58 @@
+body {
+text-align: center;
+    background-color: cornflowerblue
+}
+#ction {
+ background:linear-gradient(pink 50% ,orange 100%);   
+   z-index: 9px; 
+}
+.ppp {
+ list-style: none;
+    font-family: fantasy;
+    z-index: 10;
+    cursor: pointer;
+    position:fixed;
+    top: 0px;
+       background-color:dodgerblue;
+    width: 100%;
+    margin-top: 0;
+
+}
+.qwq {
+    font-family: cursive;
+    font-style: italic;
+    font-size: 30px;
+    color: darkblue;
+   padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    display: inline
+}
+.qwq:hover{
+  font-size:35px;
+   text-decoration: underline; 
+}
+#contact{
+background:pink;}
+h1{
+ color: aliceblue;
+    font-size:25px;
+    font-family: monospace;   
+    
+}
+#video{
+background-color: blueviolet;     
+    
+}
+#work{
+background-color: cyan;     
+    
+}
+#writings{
+  background-color:deeppink;
+    color: aliceblue;
+    }
+
+
+    
